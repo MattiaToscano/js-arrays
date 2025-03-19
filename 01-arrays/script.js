@@ -43,7 +43,16 @@ console.log('Esercizio 6');
 teachers.unshift('Sarah');
 console.log(teachers);
 
+console.log('Esercizio 7');
 // 7. Trova l'indice dell'insegnante 'Lewis' nell'array teachers
+    for(let i = 0; i < teachers.length; i++){
+        if(teachers[i] === 'Lewis'){
+            console.log(i);
+          }
+
+
+    }
+
 // e salvalo nella variabile lewisIndex
 const lewisIndex = null;
 
