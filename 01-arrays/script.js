@@ -39,7 +39,7 @@ teachers.push('Vanessa');
 console.log(teachers);
 
 
-
+console.log('Esercizio 6');
 // 6. Aggiungi un insegnante di nome 'Sarah' all'inizio dell'array teachers
 
 // 7. Trova l'indice dell'insegnante 'Lewis' nell'array teachers
